@@ -19,7 +19,7 @@ Innovating the Architecture, Engineering and Construction (AEC) industry through
     <img src="https://img.shields.io/badge/LinkedIn-Follow-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:info@bimarcavion.com">
+  <a href="mailto:support@bimarcavion.com">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
@@ -53,9 +53,9 @@ Customer Relationship Management platform.
 
 Coordination & Delivery Platform for project collaboration.
 
-### Arcavion HRMS
+### Arcavion EAMS
 
-Human Resource Management System.
+Employee Attedance Management System.
 
 ### Arcavion Website
 
