@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/bimarcavion/.github/main/profile/assets/logo.png" width="140" alt="BIM Arcavion Logo"/>
+<img src="https://bimarcavion.com/wp-content/uploads/2025/12/LOGO__1_-removebg-preview-1.png" width="140" alt="BIM Arcavion Logo"/>
 
 # BIM Arcavion Private Limited
 
