@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://bimarcavion.com/wp-content/uploads/2025/12/LOGO__1_-removebg-preview-1.png" width="140" alt="BIM Arcavion Logo"/>
-
 # BIM Arcavion Private Limited
 
 ### Building the Future of BIM, ERP, CRM & Digital Construction
